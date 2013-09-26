@@ -5,9 +5,9 @@
 ### * 基本信息
 
     * 姓名: 蒋航航                    * 性别: 男                 
-    * 年龄: 21                       * 居住地: 武汉市江夏区
-    * TEL: 13296630937               * Email: j.ghang@hotmail.com
-    * QQ : 626302367			* 主页: libelosophy.github.com
+    * 年龄: 21                        * 居住地: 武汉市江夏区
+    * TEL: 13296630937                * Email: j.ghang@hotmail.com
+    * QQ : 626302367	              * 主页: libelosophy.github.com
     
 
 
